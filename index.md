@@ -45,3 +45,4 @@ Hyperlinks to each of the demos are listed below.
 #### [Agents - Executives](https://emontes07.github.io/Learning/Instructions/Prompts/Exec-Agents.html)
 
 #### [Copilot Chat](https://emontes07.github.io/Learning/Instructions/Prompts/CopilotChat.html)
+#### [Promptathon](https://MSCPnerd.github.io/Learning/Instructions/Prompts/CopilotChat.html)
