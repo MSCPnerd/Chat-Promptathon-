@@ -141,7 +141,7 @@ This task is perfect for analyzing customer feedback or product reviews and crea
 **Steps**:  
 
 1. Save the following Excel notebook (right click "Save Link as").
-- [Charger Reviews.csv](https://github.com/emontes07/Learning/blob/main/ResourceFiles/Charger%20Reviews.csv)
+- [Charger Reviews.csv](https://github.com/MSCPnerd/Learning/blob/main/ResourceFiles/Charger%20Reviews.csv)
 3. Save the selected worksheet as a `.csv` file.  
 4. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
 5. Select Copilot Chat and upload your `.csv` file  
@@ -174,7 +174,7 @@ Use **Copilot Chat** to create a variety of data visualizations from Excel data,
 
 1. Open your Excel workbook and select one worksheet (only one tab at a time can be used).
 
-- [EV Charger Demo.csv](https://github.com/emontes07/Learning/blob/main/ResourceFiles/EV%20Charger%20Demo%20(Original).csv)
+- [EV Charger Demo.csv](https://github.com/MSCPnerd/Learning/blob/main/ResourceFiles/EV%20Charger%20Demo%20(Original).csv)
    
 3. Save the selected worksheet as a `.csv` file.  
 4. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
@@ -217,7 +217,7 @@ This is a great use case for operations, finance, or business teams looking for 
 **Steps**:  
 
 1. Save the following Excel workbook (right click "Save Link as").  
-   - [EV Charger Demo with Rev + Sales.xlsx](https://github.com/emontes07/Learning/blob/main/ResourceFiles/EV%20Charger%20Demo%20with%20Rev%20%2B%20Sales%20CSV.csv)
+   - [EV Charger Demo with Rev + Sales.xlsx](https://github.com/MSCPnerd/Learning/blob/main/ResourceFiles/EV%20Charger%20Demo%20with%20Rev%20%2B%20Sales%20CSV.csv)
 2. Open a new browser tab and navigate to [M365copilot.com](https://m365copilot.com/)  
 3. Select Copilot Chat and upload your `.xlsx` file  
 4. Use the following sample prompt to analyze and calculate values from the data  
